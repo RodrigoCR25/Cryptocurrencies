@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-Objectives:
+# Objectives:
 
 Describe the differences between supervised and unsupervised learning, including real-world examples of each.
 
@@ -17,6 +17,8 @@ In unsupervised learning, there are two key differences from the above approach:
 There are no paired inputs and outcomes.
 
 The model uses a whole dataset as input.
+
+________________________________________________________________________________________________________________________________________________________________
 
 Unsupervised learning is used in one of the following two ways:
 
